@@ -48,7 +48,7 @@ A visual representation of the decision tree is displayed using `matplotlib.pypl
 
 ## ▶ How to Run
 1. Clone this repo or download the notebook.
-2. Ensure dependencies are installed (see `requirements.txt`).
+2. Ensure dependencies are installed.
 3. Run the Python script or notebook.
 
 ## 👩‍💻 Author
