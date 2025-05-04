@@ -46,10 +46,10 @@ After training and predicting, the model generates a confusion matrix and prints
 ##  Decision Tree Visualization
 A visual representation of the decision tree is displayed using `matplotlib.pyplot` and `sklearn.tree.plot_tree()`.
 
-## ▶ How to Run
+##  How to Run
 1. Clone this repo or download the notebook.
 2. Ensure dependencies are installed.
 3. Run the Python script or notebook.
 
-## 👩‍💻 Author
+##  Author
 Jaya Harshitha Mannela
